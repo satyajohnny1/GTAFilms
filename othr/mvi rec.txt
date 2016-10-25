@@ -1,0 +1,98 @@
+rmouli-1s,2s,3s,4h,5s,6s,7a,8a,9h,10ba,11h,12a,13s,14aa,15h
+	16h,17f,18h,19h,20s,21f,
+satya - 1f,2a,3s,4h,5a,6s,7a,8f,9a,10s,11s,12ba,13f,14h,15s
+              16s,17aa,18ff,19ba,20s,21ba,22h,23h,24h,25ff,26s,27h,
+              28s,29h,30f,31f,32s,33h,34a,35s,36ff,37h,38h,39ff,
+guna - 1s,2h,3s,4s,5h,6h,
+rgv - 1a,2s,3h,4f,5ff,6h,7f,8s,9ba,10ff,11ff,12f,
+johny- 1ff,2a,3h,4f,
+puri - 1f,2ba,3a,4f,
+v.v - 1a,2f,
+sri - 1ba,2f,3ba, 4h,5ba
+shekar -1a, 
+krish - 1a,2ba,3ba,
+jai - 1ba,2s,3s,4s,5f,6ba,7h,8f,
+NENU - 1s,2s,3s,
+Dev katta- 1h,
+kvamsi - 1h,2f,
+vasu - 1aa,2a,
+kanchi - 1s,2a,
+trivkram- 1s,2ba,3f,
+sukumar - 1ff,
+boypati srinu- 1ff,
+
+121 FILMS......on car2
+
+
+DIRECTOR		SUPERHIT	HIT	AB.AVG	AVG	B.AVG	FLOP	ATRFLOP		%
+
+SATYA[39]		11		10	1	5	3	5	4 		68%		
+
+RAJAMOULI[21]		7		7	1	3	1	2	0		87%
+
+GUNASHEKAR[6]		3		3	0	0	0	0	0		100%
+
+RAM GOPAL VARMA[12]	2		2	0	1	1	3	3		47%
+
+JOHNNY[5]		0		1	1	1	0	1	1		37%
+
+PURI JAGANATH[4]		0		0	0	1	1	2	0		20%
+
+V.V.VINAYAK[2]		0		0	0	1	0	1	0		16%
+
+DIRECTOR		SUPERHIT	HIT	AB.AVG	AVG	B.AVG	FLOP	ATRFLOP		%
+
+SRI[5]			0		1	0	0	3	1	0		35%
+
+KRISH[3]			0		0	0	1	2	0	0		29%
+
+JAI[8]			3		1	0	0	2	2	0		60%
+
+VASU[2]			0		0	1	1	0	0	0		57%
+
+KANCHI[2]		1		0	0	1	0	0	0		74%
+
+TRIVIKRAM[3]		1		0	0	0	1	0	1		47%
+
+KRISHNAVAMSI[2]		0		1	0	0	0	1	0		50%	
+
+DEVA KATTA[1]		0		1	0	0	0	0	0		100%
+
+NENU[3]			3		0	0	0	0	0	0		100%**
+
+SHEKAR KAMULA[1]	0		0	0	0	1	0	0		37%
+
+BOYPTI SRINU[1]		0		0	0	0	0	0	1		0%
+	
+SUKUMAR[1]		0		0	0	0	0	0	1		0%
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TOTAL			32S		26H	3AA	15A	15A	19F	10			
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+HITS - 60
+
+AVG - 33
+
+FLPS - 28
+
+123  FILMS
+
+HIT% =  70%
+FLOPS - 30%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

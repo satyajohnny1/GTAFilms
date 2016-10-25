@@ -1,0 +1,136 @@
+
+ProductonHouse			SuHIt	Hit	A.Avg	AVG	B.AVG	Flop	ATERflop		%
+
+AITHEARTS[35-5*]			11	10	0	5	0	2	7		67%
+
+VYJAYANTHI[4-1*]			1	2	-	-	-	1	-		75%
+
+SUMANTH A.P[4]			2	1	1	-	-	-	-		85%
+
+PADMALAYA[6-2*]			2	1	0	1	2	-	-		70%
+
+ADITYA ARTS[6-3*]		2	-	1	2	-	1	-		60%
+
+DIL RAJU[7]			1	4	-	-	-	-	2		63%
+
+AMIGOES[3-1*]			1	1	-	-	1	-	-		88%
+
+E TV.RAMOJI[2]			-	1	-	-	-	1	-		50%
+
+ANNAPURNA[8-1*]			1	3	-	2	1	-	1		76%
+
+GEETHA ARTS[7]			3	2	-	-	-	-	2		73%
+
+ProductonHouse			SuHIt	Hit	A.Avg	AVG	B.AVG	Flop	ATERflop		%
+
+JUST YELLO[4-2*]			1	1	-	2	-	-	-		88%
+
+VISWAMITRA[7-1*]		2	4	-	-	-	1	-		79%
+
+STUDIO GREEN[1]			-	-	1	-	-	-	-		61%
+
+KAMASKHI[2]			-	2	-		-	-	-		99%
+
+KANAKARATNA[4]			-	1	1	2	-	-	-		66%
+
+SURESH PROD.[7]			3	-	-	2	-	-	2		55%
+
+RGV FACTORY[5]			1	1	-	-	-	1	2		40%
+
+BELKONDA SURESH[4]		1	1		1	-	-	1		59%
+
+JOHNNY				-	-	-	1	-	1	-		37%
+
+KEERTHI[3]			1	-			2	-	-		50%
+
+LAXMIPRASANA				1					1		48%
+
+
+BBC-1F,SUPERGOOD-1FF
+alakar - 1h,maa-1f,
+AMRatnm-1h,2a[gmni],
+
+ARKA-1a,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5*aithe-1s,2ff,3a,4h,5ff,6s,7s,8s,9a,10ff,11h,12s,13s,14f,15h,16f,17ff,18s,19h,20s,21h,22h,23a,24a,25s,26ff,27h,28s,29a,
+		30ff,31h,32h,33ff,34s,35h,
+1*vyj-1f,2s,3h,4h,
+sumanth-1s,2aa,3s,4h,
+2*padm- 1s,2ba,3s,4ba,5h,6a
+3*adity-1aa,2s,3a,4f,5s,6a,
+dil- 1h,2h,3ff,4ff,5h,6h,7s,
+1*amig -1s,2h,3ba,
+etv-1f,2h,
+1*anna - 1h,2a,3ff,4a,5h,6ba,7s,8h,
+geta - 1ff,2s,3s,4h,5s,6ff,7h,
+2*jstyello- 1a,2s,3a,4h,
+1*viswamtra-1h,2s,3h,4f,5s,6h,7h,
+stdGreen - 1aa,
+kamaksi -1h,2h,
+BBc-1f,Kankeatna- 1aa,2a,3h,4a,
+supergood - 1ff,
+SURESH - 1s,2ff,3ff,4a,5a,6s,7S,
+rgv-1ff,2ss,3f,4ff,5h
+Belamkonda-1a,2ff,3h,4s,
+Johny-1a,2f,
+Keerthi - 1s,2ba,3ba,
+alakar - 1h,maa-1f,
+AMRatnm-1h,2a[gmni],
+LxmPeasna-1h,2ff,
+ARKA-1a,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
